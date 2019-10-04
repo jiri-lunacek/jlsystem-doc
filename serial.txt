@@ -1,0 +1,15 @@
+Papouch RS232 TTL
+https://www.papouch.com/cz/shop/product/vestavny-prevodnik-rs232-ttl/
+10 žilový plochý kabel.
+Z pohledu RS232
+
+1 - U+
+2 -
+3 - 
+4 - TX ->
+5 -
+6 -
+7 -
+8 - RX <-
+9 - U-
+10 -
